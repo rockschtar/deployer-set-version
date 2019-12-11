@@ -1,19 +1,12 @@
 {
-  "name": "validio/deployer-recipes",
+  "name": "rockschtar/deployer-set-version",
   "type": "project",
-  "license": "proprietary",
+  "license": "MIT",
   "description": "Recipes for using with Deployer (deployer.org)",
-  "homepage": "https://www.validio.de/",
   "authors": [
     {
       "name": "Stefan Helmer",
-      "email": "sh@validio.de"
-    }
-  ],
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://satis.validio.de"
+      "email": "rockschtar@gmail.com"
     }
   ],
   "require": {

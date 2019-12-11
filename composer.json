@@ -1,0 +1,25 @@
+{
+  "name": "validio/deployer-recipes",
+  "type": "project",
+  "license": "proprietary",
+  "description": "Recipes for using with Deployer (deployer.org)",
+  "homepage": "https://www.validio.de/",
+  "authors": [
+    {
+      "name": "Stefan Helmer",
+      "email": "sh@validio.de"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://satis.validio.de"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "require-dev": {
+    "deployer/deployer": "6.3.*"
+  }
+}

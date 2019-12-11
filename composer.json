@@ -1,6 +1,6 @@
 {
   "name": "rockschtar/deployer-set-version",
-  "type": "project",
+  "type": "library",
   "license": "MIT",
   "description": "Recipes for using with Deployer (deployer.org)",
   "authors": [

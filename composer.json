@@ -12,9 +12,6 @@
   "require": {
     "php": ">=7.1"
   },
-  "autoload": {
-    "files": ["set_version.php"]
-  },
   "require-dev": {
     "deployer/deployer": "6.3.*"
   }
